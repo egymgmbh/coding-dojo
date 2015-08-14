@@ -16,7 +16,27 @@ This is code puzzle from [https://www.codechef.com/problems/NICEQUAD](https://ww
 
 ## Retrospective
 
-**TODO**
+Positive points:
+* It was fun!
+* Getting insights about how to others think
+
+Bad points:
+* Finished too fast!
+* We spend a long time with language issues
+* 4 minutes is too short
+* we didn't follow the rules
+* We didn't solve the problem properly
+
+What we learned:
+* We should prepare the environment before starting
+* New language: go
+
+Next dojos...?
+* Whilespace (but with no printable chars)
+* Something includig concurrency
+* 5 minutes turn
+* follow dojo rules
+* choose a language most of us are used to?
 
 ## Original Problem Description
 
