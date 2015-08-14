@@ -1,6 +1,6 @@
 # Nice Quadrangles
 
-This is code puzzle from [https://www.codechef.com/problems/NICEQUAD](https://www.codechef.com/problems/NICEQUAD) it was used in our first eGym coding dojo, which took place in Munich on August 12, 2015.
+This is code puzzle from [https://www.codechef.com/problems/NICEQUAD](https://www.codechef.com/problems/NICEQUAD) it was used in our first eGym coding dojo, which took place in Munich on August 13, 2015.
 
 ## Participants:
 
