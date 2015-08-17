@@ -2,13 +2,35 @@
 
 Coding dojo is just for fun.
 
-**TODO:** More description about our coding dojo, and its rules. Maybe a nice placeholder for the Leandro's presentation.
+## Short introduction
+
+* Define language
+* Define problem
+* Write only enough code to pass the tests -> TDD, BDD...
+* Baby steps
+* Think loudly
+* Pair programming
+* Tests are not passing? No one talks to the current pilots
+* Limited turn time -> 4~5 minutes
+* Refactoring
+* Retrospective
+* Websites with tons of exercises - _Checkout the next section_
+* Suggestions of problems:
+```
+“enhanced” ATM -> limited number of notes and concurrent withdraws
+Calculator -> ((1 + 2) * 34.5 + 35%) ** 3 / (-4.2) =  -649490.89088169642857142857
+Arbitrary precision?
+Crazy operators? Variables?
+```
 
 ## Popular code puzzle sites:
 
 * [Code Chef](https://www.codechef.com)
 * [Project Euler](https://projecteuler.net/)
-* ...
+* [Ruby Quiz](http://rubyquiz.com/)
+* [Dojopuzzles (pt_BR :-()](http://dojopuzzles.com/)
+* [Daily Programmer](https://www.reddit.com/r/dailyprogrammer)
+* [Codepunt Today](http://codepunt.today/)
 
 ## Programming language
 
