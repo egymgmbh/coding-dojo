@@ -2,18 +2,6 @@
 
 This is code puzzle from [https://www.codechef.com/problems/NICEQUAD](https://www.codechef.com/problems/NICEQUAD) it was used in our first eGym coding dojo, which took place in Munich on August 13, 2015.
 
-## Participants:
-
-* Leandro Santiago 
-* Sandro Gießl
-* Gino Gravanis
-* Mathias Gorf
-* Matthias Benkard
-* Andreas Kührmann
-* Arseni Lapunov
-* Jivko Vantchev
-* Nikolay Georgiev
-
 ## Retrospective
 
 Positive points:
